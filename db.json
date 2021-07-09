@@ -1,5 +1,5 @@
 {
-  "Drop Biscuits and Sausage Gravy": {
+  "dropbiscuitsandsausagegravy": {
     "url": "http://thepioneerwoman.com/cooking/2013/03/drop-biscuits-and-sausage-gravy/",
     "ingredients": [
       "biscuits",
@@ -15,7 +15,7 @@
       "black pepper"
     ]
   },
-  "Hot Roast Beef Sandwiches": {
+  "hotroastbeefsandwiches": {
     "url": "http://thepioneerwoman.com/cooking/2013/03/hot-roast-beef-sandwiches/",
     "ingredients": [
       "dinner rolls",
@@ -30,7 +30,7 @@
       "dressing sriracha"
     ]
   },
-  "Morrocan Carrot and Chickpea Salad": {
+  "moroccancarrotandchickpeasalad": {
     "url": "http://www.101cookbooks.com/archives/moroccan-carrot-and-chickpea-salad-recipe.html",
     "ingredients": [
       "cumin seeds",
@@ -46,7 +46,7 @@
       "almond"
     ]
   },
-  "Mixed Berry Shortcake": {
+  "mixedberryshortcake": {
     "url": "http://thepioneerwoman.com/cooking/2013/03/mixed-berry-shortcake/",
     "ingredients": [
       "biscuits",
@@ -66,7 +66,7 @@
       "brown sugar"
     ]
   },
-  "Pomegranate Yogurt Bowl": {
+  "pomegranateyogurtbowl": {
     "url": "http://www.101cookbooks.com/archives/pomegranate-yogurt-bowl-recipe.html",
     "ingredients": [
       "greek yogurt",

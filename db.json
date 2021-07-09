@@ -1,116 +1,69 @@
 [
   {
     "name": "Drop Biscuits and Sausage Gravy",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/drop-biscuits-and-sausage-gravy/",
     "ingredients": [
       "biscuits",
       "flour",
       "baking powder",
-      "salt",
-      "butter",
-      "buttermilk",
-      "sausage gravy",
-      "breakfast sausage",
-      "milk",
-      "seasoned salt",
-      "black pepper"
+      "salt"
     ]
   },
   {
     "name": "Hot Roast Beef Sandwiches",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/hot-roast-beef-sandwiches/",
     "ingredients": [
       "dinner rolls",
       "roast beef",
       "cheese",
-      "mayonnaise",
-      "onion",
-      "poppy seeds",
-      "spicy mustard",
-      "horseradish mayo",
-      "worcestershire",
-      "dressing sriracha"
+      "mayonnaise"
     ]
   },
   {
     "name": "Morrocan Carrot and Chickpea Salad",
-    "url": "http://www.101cookbooks.com/archives/moroccan-carrot-and-chickpea-salad-recipe.html",
     "ingredients": [
       "cumin seeds",
       "extra virgin olive oil",
       "lemon juice",
-      "honey",
-      "sea salt",
-      "cayenne pepper",
-      "carrots",
-      "chickpeas",
-      "pluots",
-      "mint",
-      "almond"
+      "honey"
     ]
   },
   {
     "name": "Mixed Berry Shortcake",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/mixed-berry-shortcake/",
     "ingredients": [
       "biscuits",
       "flour",
       "baking powder",
-      "sugar",
-      "salt",
-      "butter",
-      "buttermilk",
-      "almond extract",
-      "berries",
-      "mixed berries",
-      "zest and juice of orange",
-      "sweet yogurt cream",
-      "plain greek yogurt",
-      "heavy cream",
-      "brown sugar"
+      "sugar"
     ]
   },
   {
     "name": "Pomegranate Yogurt Bowl",
-    "url": "http://www.101cookbooks.com/archives/pomegranate-yogurt-bowl-recipe.html",
     "ingredients": [
       "greek yogurt",
       "pomegranate juice",
       "honey",
-      "puffed quinoa crisps",
-      "sunflower seeds",
-      "pomegranate seeds"
+      "puffed quinoa crisps"
     ]
   },
   {
     "name": "Krispy Easter Eggs",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/krispy-easter-eggs/",
     "ingredients": [
       "butter",
       "mini marshmallows",
       "rice krispies",
-      "sprinkles",
-      "chocolate easter eggs",
-      "plastic easter eggs"
+      "sprinkles"
     ]
   },
   {
     "name": "Spinach and Kamut Salad with Chili-Orange Dressing",
-    "url": "http://naturallyella.com/2013/03/18/spinach-and-kamut-salad-with-chili-orange-dressing/",
     "ingredients": [
       "spinach",
       "kamut",
       "sunflower seeds",
-      "feta",
-      "orange juice",
-      "walnut oil",
-      "honey",
-      "red chili flakes"
+      "feta"
     ]
   },
   {
     "name": "Eggs in Hash Brown Nests",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/eggs-in-hash-brown-nests/",
     "ingredients": [
       "russet potatoes",
       "salt and pepper",
@@ -120,7 +73,6 @@
   },
   {
     "name": "Za'atar",
-    "url": "http://www.101cookbooks.com/archives/zaatar-recipe.html",
     "ingredients": [
       "thyme leaves",
       "sumac",
@@ -130,160 +82,87 @@
   },
   {
     "name": "Pistachio Chocolate Chip Muffins",
-    "url": "http://naturallyella.com/2013/03/20/pistachio-and-chocolate-chip-muffins/",
     "ingredients": [
       "wheat pastry flour",
       "roasted and unsalted shelled pistachios",
       "baking powder",
-      "baking soda",
-      "sea salt",
-      "milk",
-      "eggs",
-      "coconut oil",
-      "honey",
-      "chocolate chips"
+      "baking soda"
     ]
   },
   {
     "name": "Glazed Easter Ham",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/glazed-easter-ham/",
     "ingredients": [
       "ham",
       "brown sugar",
       "spicy brown mustard",
-      "dr pepper",
-      "apple cider vinegar"
+      "dr pepper"
     ]
   },
   {
     "name": "Pretty, Yummy Fruit Salad",
-    "url": "http://thepioneerwoman.com/cooking/2013/03/pretty-fruit-salad/",
     "ingredients": [
       "sugar",
       "water",
       "juice of orange",
-      "zest of orange",
-      "vanilla beans",
-      "strawberries",
-      "blueberries",
-      "red grapes",
-      "green grapes",
-      "mint leaves"
+      "zest of orange"
     ]
   },
   {
     "name": "No-Bake Chocolate Bottom Pumpkin Tart",
-    "url": "http://delishhh.com/2012/11/26/chocolate-bottom-pumpkin-tart/",
     "ingredients": [
       "tart",
       "flour",
       "salt",
-      "sugar",
-      "butter",
-      "egg yolk",
-      "heavy cream",
-      "vanilla",
-      "chocolate",
-      "bittersweet chocolate",
-      "pumpkin filling",
-      "canned pumpkin",
-      "granulated sugar",
-      "cinnamon",
-      "allspice",
-      "nutmeg",
-      "eggs",
-      "cornstarch"
+      "sugar"
     ]
   },
   {
     "name": "Seeded Popovers",
-    "url": "http://www.101cookbooks.com/archives/seeded-popovers-recipe.html",
     "ingredients": [
       "milk",
       "unsalted butter",
       "unbleached flour",
-      "sea salt",
-      "baking powder",
-      "sesame seeds",
-      "sunflower seeds",
-      "eggs"
+      "sea salt"
     ]
   },
   {
     "name": "Spinach and Black Bean Quesadilla",
-    "url": "http://naturallyella.com/2013/03/22/spinach-and-black-bean-quesadilla/",
     "ingredients": [
       "tortillas",
       "olive oil",
       "garlic",
-      "cheese",
-      "black beans",
-      "spinach",
-      "juice from lime",
-      "cilantro",
-      "hot sauce"
+      "cheese"
     ]
   },
   {
     "name": "Easter Leftover Sandwich",
-    "url": "http://thepioneerwoman.com/cooking/2013/04/easter-leftover-sandwich/",
     "ingredients": [
       "hard boiled eggs",
       "mayonnaise",
       "grainy dijon mustard",
-      "salt and pepper",
-      "worcestershire sauce",
-      "ham",
-      "kaiser rolls",
-      "extra mayonnaise and dijon",
-      "swiss cheese",
-      "red onion",
-      "avocado",
-      "tomatoes",
-      "lettuce"
+      "salt and pepper"
     ]
   },
   {
     "name": "Kale Rice Bowl",
-    "url": "http://www.101cookbooks.com/archives/kale-rice-bowl-recipe.html",
     "ingredients": [
       "olive oil",
       "kale",
       "brown rice",
-      "capers",
-      "poached egg",
-      "salted greek yogurt",
-      "sesame seeds"
+      "capers"
     ]
   },
   {
     "name": "Chipotle Sweet Potato, Spinach, and Black Bean Tamales",
-    "url": "http://naturallyella.com/2013/03/25/chipotle-sweet-potato-spinach-and-black-bean-tamales/",
     "ingredients": [
       "masa harina",
       "baking powder",
       "sea salt",
-      "mexican oregano",
-      "warm water",
-      "coconut oil",
-      "olive oil",
-      "red onion",
-      "sweet potato",
-      "chipotle peppers in adobo sauce",
-      "adobo sauce",
-      "juice from lime",
-      "black beans",
-      "salt",
-      "spinach",
-      "cilantro",
-      "corn husk",
-      "garlic",
-      "tomato sauce"
+      "mexican oregano"
     ]
   },
   {
     "name": "Quick Baked French Toast",
-    "url": "http://delishhh.com/2012/11/27/quick-baked-french-toast/",
     "ingredients": [
       "butter",
       "cinnamon raisin bread",
@@ -293,68 +172,42 @@
   },
   {
     "name": "Pizza Potato Skins",
-    "url": "http://thepioneerwoman.com/cooking/2013/04/pizza-potato-skins/",
     "ingredients": [
       "russet potatoes",
       "canola oil",
       "butter",
-      "kosher salt",
-      "marinara",
-      "mozzarella cheese",
-      "pepperoni",
-      "parsley",
-      "pizza sausage"
+      "kosher salt"
     ]
   },
   {
     "name": "Alfajores with Dulce de Leche",
-    "url": "http://delishhh.com/2013/01/07/alfajores-with-dulce-de-leche/",
     "ingredients": [
       "unsalted butter",
       "sugar",
       "all purpose flour",
-      "cornstarch",
-      "baking powder",
-      "salt",
-      "egg",
-      "egg yolk",
-      "vanilla extract",
-      "store bought dulce de leche",
-      "other easier options are just to use nutella",
-      "powdered sugar dusting"
+      "cornstarch"
     ]
   },
   {
     "name": "Marjoram Sauce with Capers & Green Olives",
-    "url": "http://www.101cookbooks.com/archives/marjoram-sauce-with-capers-green-olives-recipe.html",
     "ingredients": [
       "country bread",
       "aged red vine vinegar",
       "garlic",
-      "sea salt",
-      "marjoram leaves",
-      "capers",
-      "pine nuts",
-      "parsley",
-      "pitted green olives",
-      "olive oil"
+      "sea salt"
     ]
   },
   {
     "name": "Sexy Cabbage (+ Cilantro-Lime Carrot and Cabbage Spring Rolls)",
-    "url": "http://naturallyella.com/2013/03/27/sexy-cabbage-cilantro-lime-carrot-and-cabbage-spring-rolls/",
     "ingredients": [
       "green cabbage",
       "carrots",
       "green onions",
-      "juice from lime",
-      "cilantro",
-      "rice paper wrappers"
+      "juice from lime"
     ]
   },
   {
     "name": "Chocolate Kahlua Mousse",
-    "url": "http://delishhh.com/2013/02/04/chocolate-kahlua-mousse/",
     "ingredients": [
       "heavy cream",
       "kahlua",
@@ -364,24 +217,11 @@
   },
   {
     "name": "An Ideal Lunch Salad",
-    "url": "http://www.101cookbooks.com/archives/an-ideal-lunch-salad-recipe.html",
     "ingredients": [
       "celery stalks",
       "chickpeas",
       "arugula",
-      "pepitas",
-      "black olives",
-      "red onion",
-      "broccoli florets",
-      "creamy miso",
-      "garlic",
-      "white miso",
-      "mirin",
-      "brown rice vinegar",
-      "cumin",
-      "plain yogurt",
-      "heavy cream",
-      "ripe avocado"
+      "pepitas"
     ]
   }
 ]

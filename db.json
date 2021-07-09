@@ -1,6 +1,5 @@
-[
-  {
-    "name": "Drop Biscuits and Sausage Gravy",
+{
+  "Drop Biscuits and Sausage Gravy": {
     "ingredients": [
       "biscuits",
       "flour",
@@ -15,8 +14,7 @@
       "black pepper"
     ]
   },
-  {
-    "name": "Hot Roast Beef Sandwiches",
+  "Hot Roast Beef Sandwiches": {
     "ingredients": [
       "dinner rolls",
       "roast beef",
@@ -30,8 +28,7 @@
       "dressing sriracha"
     ]
   },
-  {
-    "name": "Morrocan Carrot and Chickpea Salad",
+  "Morrocan Carrot and Chickpea Salad": {
     "ingredients": [
       "cumin seeds",
       "extra virgin olive oil",
@@ -46,8 +43,7 @@
       "almond"
     ]
   },
-  {
-    "name": "Mixed Berry Shortcake",
+  "Mixed Berry Shortcake": {
     "ingredients": [
       "biscuits",
       "flour",
@@ -66,8 +62,7 @@
       "brown sugar"
     ]
   },
-  {
-    "name": "Pomegranate Yogurt Bowl",
+  "Pomegranate Yogurt Bowl": {
     "ingredients": [
       "greek yogurt",
       "pomegranate juice",
@@ -77,4 +72,4 @@
       "pomegranate seeds"
     ]
   }
-]
+}
